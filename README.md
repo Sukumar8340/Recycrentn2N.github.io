@@ -1,0 +1,2 @@
+# Recycrentn2N.github.io
+Recycrent n2N as it name might needy who are near. Aim       of this project to provide the idea of renting or leasing the unused appliances/equipment to needy who are near by in short “n2N”(needy 2 near).   This software will make it easier for anyone to rent anything in a simple way and the least troubling way. Because it shows the nearest possible people who need help .
